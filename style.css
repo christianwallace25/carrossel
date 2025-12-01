@@ -1,0 +1,11 @@
+.custom-caption {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+  padding: 10px;
+  border-radius: 5px;
+}
+.carousel-indicators .active {
+  background-color: #6200ea !important;
+}
+.carousel-fade .carousel-item {
+  transition: opacity 1.5s ease-in-out;
+}
